@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "EV0 ",
+    "title": "JOVANNY A. C. ",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
@@ -15,11 +15,11 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
+    "meta_author": "Jovanny Alarcon Calderon",
     "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "Jovanny Alarcon Calderon",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
     "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   }
