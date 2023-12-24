@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "JOVANNY A. C. ",
-    "base_url": "https://ev0.gndx.io",
+    "base_url": "https://jovannyp.netlify.app",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
-    "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "lang": "es",
+    "description": "Conoce mas sobre mi, mis intereses y algunos trabajos realizados",
     "pageSize": 6
   },
   "features": {
@@ -16,11 +16,11 @@
   },
   "metadata": {
     "meta_author": "Jovanny Alarcon Calderon",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_description": "Conoce mas sobre mi, mis intereses y algunos trabajos realizados"
   },
   "author": {
     "name": "Jovanny Alarcon Calderon",
-    "avatar": "https://media.licdn.com/dms/image/D4E03AQFXrVGd7KEhow/profile-displayphoto-shrink_200_200/0/1700912236314?e=1708560000&v=beta&t=uv1M9MMfMqQZ3cdgVQjUkwm77JYrQQUgTyS8qhl4rSc",
+    "avatar": "/photo5121009341359565848.jpg",
     "bio": "Conoce mas sobre mi, mis intereses y algunos trabajos realizados"
   }
 }
