@@ -3,9 +3,9 @@
     "title": "JOVANNY A. C. ",
     "base_url": "https://jovannyp.netlify.app",
     "base_path": "/",
-    "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "favicon": "/jovanny.png",
+    "logoLight": "/logo-diay.png",
+    "logoDark": "/logo-nochey.png",
     "lang": "es",
     "description": "Conoce mas sobre mi, mis intereses y algunos trabajos realizados",
     "pageSize": 6
